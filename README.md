@@ -8,6 +8,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shavinanjitha2002&label=Profile%20views&color=0e75b6&style=flat" alt="shavinanjitha2002" /> </p>
+
+![](https://hit.yhype.me/github/profile?user_id=85817726)
 <img align="right" alt="Coding" width="400" height="450" src="https://images.unsplash.com/photo-1608306448197-e83633f1261c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80">
 
 - 🎓 I'm an Undergraduate at *University of Moratuwa, Department of Computer Science and Engineering*
