@@ -1,6 +1,9 @@
 <img alt="Coding" width="2000" src="https://images.theconversation.com/files/441057/original/file-20220117-13-11tpnul.jpg?ixlib=rb-1.1.0&rect=445%2C1440%2C4120%2C2056&q=45&auto=format&w=2000&h=668">
 
-<h1 align="center">Hi 👋, I'm Shavin Anjitha</h1>
+<p align="center">
+   <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=40&duration=3000&pause=1000&color=0DF712&center=true&width=435&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Shavin+Anjitha"/>
+</a>
+</p>
 <h3 align="center">A passionate developer and designer</h3>
 <br/>
 
@@ -38,9 +41,49 @@
   <br/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shavinanjitha2002&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shavinanjitha2002" /></p>
+### Recent GitHub Activity 📈
+<p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shavinanjitha2002&hide_border=true&theme=github_dark"></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shavinanjitha2002&show_icons=true&locale=en&theme=tokyonight" alt="shavinanjitha2002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shavinanjitha2002&" alt="shavinanjitha2002" /></p>
+### GitHub Stats
+<p>
+   <img src="https://github-readme-stats.vercel.app/api?username=shavinanjitha2002&show_icons=true&locale=en&hide_border=trye&theme=github_dark" alt="shavinanjitha2002" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shavinanjitha2002&theme=github_dark">
+</p>
+
+### Streak ⚡
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shavinanjitha2002&theme=github_dark" alt="shavinanjitha2002" /></p>
+
+<details>
+   <summary>
+      <h3>Languages and Frameworks 💻</h3>
+   </summary>
+
+   <p>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shavinanjitha2002&theme=github_dark" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shavinanjitha2002&theme=github_dark" />
+   </p>
+</details>
+
+<details>
+   <summary>
+      <h3>Commit Graph 📝</h3>
+   </summary>
+
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shavinanjitha2002&theme=github_dark&utcOffset=8" />
+
+</details>
+
+<details>
+  <summary>
+     <h3>Activity Graph 📈 </h3>
+   </summary>
+  <br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shavinanjitha2002&bg_color=131122&color=dddddd&line=04e61b&point=1155ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+
+## GitHub Profile Trophy 🏆
+![](https://github-trophies.vercel.app/?username=shavinanjitha2002&theme=onedark)
 
