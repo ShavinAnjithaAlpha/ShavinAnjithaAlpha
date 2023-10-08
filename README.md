@@ -29,7 +29,7 @@
 <a href="https://linkedin.com/in/shavin-anjitha-chandrawansha-555323229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shavin-anjitha-chandrawansha-555323229" height="30" width="40" /></a>
 <a href="https://codesandbox.com/shavin_anjitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shavin_anjitha" height="30" width="40" /></a>
 <a href="https://instagram.com/shavin_anjitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shavin_anjitha" height="30" width="40" /></a>
-<a href="https://medium.com/@shavinanjithachandrawansha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shavinanjithachandrawansha" height="30" width="40" /></a>
+<a href="https://medium.com/@shavinanjitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shavinanjitha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shavin_anjitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shavin_anjitha" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@shavin_anjitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shavin_anjitha" height="30" width="40" /></a>
 </p>
@@ -42,17 +42,17 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
 
 ### Recent GitHub Activity 📈
-<p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shavinanjitha2002&hide_border=true&theme=github_dark"></p>
+<p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShavinAnjithaAlpha&hide_border=true&theme=github_dark"></p>
 
 
 ### GitHub Stats
 <p>
-   <img src="https://github-readme-stats.vercel.app/api?username=shavinanjitha2002&show_icons=true&locale=en&hide_border=trye&theme=github_dark" alt="shavinanjitha2002" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shavinanjitha2002&theme=github_dark">
+   <img src="https://github-readme-stats.vercel.app/api?username=ShavinAnjithaAlpha&show_icons=true&locale=en&hide_border=trye&theme=github_dark" alt="shavinanjitha2002" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShavinAnjithaAlpha&theme=github_dark">
 </p>
 
 ### Streak ⚡
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shavinanjitha2002&theme=github_dark" alt="shavinanjitha2002" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShavinAnjithaAlpha&theme=github_dark" alt="ShavinAnjithaAlpha" /></p>
 
 <details>
    <summary>
@@ -60,8 +60,8 @@
    </summary>
 
    <p>
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shavinanjitha2002&theme=github_dark" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shavinanjitha2002&theme=github_dark" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShavinAnjithaAlpha&theme=github_dark" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShavinAnjithaAlpha&theme=github_dark" />
    </p>
 </details>
 
@@ -70,7 +70,7 @@
       <h3>Commit Graph 📝</h3>
    </summary>
 
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shavinanjitha2002&theme=github_dark&utcOffset=8" />
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShavinAnjithaAlpha&theme=github_dark&utcOffset=8" />
 
 </details>
 
@@ -80,10 +80,10 @@
    </summary>
   <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shavinanjitha2002&bg_color=131122&color=dddddd&line=04e61b&point=1155ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShavinAnjithaAlpha&bg_color=131122&color=dddddd&line=04e61b&point=1155ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
 ## GitHub Profile Trophy 🏆
-![](https://github-trophies.vercel.app/?username=shavinanjitha2002&theme=onedark)
+![](https://github-trophies.vercel.app/?username=ShavinAnjithaAlpha&theme=onedark)
 
