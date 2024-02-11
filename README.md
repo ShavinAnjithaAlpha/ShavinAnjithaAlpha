@@ -84,6 +84,4 @@
 
 </details>
 
-## GitHub Profile Trophy 🏆
-![](https://github-trophies.vercel.app/?username=ShavinAnjithaAlpha&theme=onedark)
 
