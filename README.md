@@ -1,10 +1,11 @@
-![image](https://github.com/ShavinAnjithaAlpha/ShavinAnjithaAlpha/assets/85817726/df18a030-85e5-4c9e-ab62-7393f1a5f7e6)
+![wallpaperflare com_wallpaper (4)](https://github.com/user-attachments/assets/e28bc915-c0bb-4ba6-bcea-5ad025bfee0e)
+
 
 <p align="center">
    <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=40&duration=3000&pause=1000&color=0DF712&center=true&width=435&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Shavin+Anjitha"/>
 </a>
 </p>
-<h3 align="center">A passionate developer and designer</h3>
+<h3 align="center">A passionate software engineer</h3>
 <br/>
 
 > <h3 align="center"> The World Forever Changes </h3>
@@ -15,11 +16,11 @@
 ![](https://hit.yhype.me/github/profile?user_id=85817726)
 - 🎓 I'm an Undergraduate at *University of Moratuwa, Department of Computer Science and Engineering*
    
-- 🌱 I’m currently learning **django, react and node.js**
+- 🌱 I’m currently learning **kubernetes, spring boot, and cryptography**
 
-- 🌱 I'm willing to learn **Linux, Arduino and Assembly**
+- 🌱 I'm willing to learn **Virtualization, Cloud Computing, Software Architecture**
 
-- 📫 You can reach me on **shavinanjithachandrawansha@gmail.com**
+- 📫 You can reach me on **shavinanjitha.ch@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
