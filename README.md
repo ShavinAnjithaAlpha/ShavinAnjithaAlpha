@@ -1,4 +1,4 @@
-![wallpaperflare com_wallpaper (4)](https://github.com/user-attachments/assets/e28bc915-c0bb-4ba6-bcea-5ad025bfee0e)
+![DALL·E 2024-12-15 20 10 19 - A minimalistic and geometric digital artwork inspired by Michelangelo's Sistine Chapel painting, specifically 'The Creation of Adam,' focusing solely ](https://github.com/user-attachments/assets/15f94f63-3c6d-439d-bf1b-cf5595dda7d1)
 
 
 <p align="center">
