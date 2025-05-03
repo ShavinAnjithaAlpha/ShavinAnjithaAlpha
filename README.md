@@ -7,14 +7,13 @@
 <h3 align="center">A Passionate Software Engineer</h3>
 <br/>
 
-> <h3 align="center"> The World Forever Changes </h3>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shavinanjitha2002&label=Profile%20views&color=0e75b6&style=flat" alt="shavinanjitha2002" /> </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=85817726)
 - 🎓 I'm a final year Undergraduate at *University of Moratuwa, Department of Computer Science and Engineering*
+  
 - Interested in Distributed Systems, Software Architecture, Computer Security, Cloud Computing, and Big Data.
+
 - 📫 You can reach me at **shavin.21@cse.mrt.ac.lk**
 
 <h3 align="left">Connect with me:</h3>
