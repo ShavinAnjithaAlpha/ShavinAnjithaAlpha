@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4dc311be-dd3d-46c5-aed3-7c05bf56d63b)
+![minecraft-10th-3840x2160-23769](https://github.com/user-attachments/assets/6b9b2659-f298-4372-9c4d-a274ae552284)
 
 <p align="center">
    <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=40&duration=3000&pause=1000&color=0DF712&center=true&width=435&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Shavin+Anjitha"/>
